@@ -29,7 +29,7 @@ So how do interact with the Leap Motion? Easy, find your use case below and tink
 
 ### Rigging
 
-[CustomRigHello.umap](https://github.com/leapmotion/LeapUnrealModules/blob/master/Content/Modules/Rigging/CustomRigHello.umap). A map with various skeletal meshes auto-mapped. Investigate various anim blueprint to see how each rig was done. See https://github.com/getnamo/leap-ue4-preview#custom-rigging for rigging api documentation.
+[CustomRigHello.umap](https://github.com/leapmotion/LeapUnrealModules/blob/master/Content/Modules/Rigging/CustomRigHello.umap). A map with various skeletal meshes auto-mapped. Investigate various anim blueprint to see how each rig was done. See https://github.com/leapmotion/LeapUnreal#custom-rigging for rigging api documentation.
 
 
 ### (future examples...)
