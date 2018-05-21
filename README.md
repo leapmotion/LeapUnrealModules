@@ -1,5 +1,5 @@
 # LeapUnrealModules
-Leap UE4 modules and examples. Drag and drop content for your leap needs.
+Leap UE4 modules and examples. Drag and drop content for your leap needs. Depends on the plugin found under https://github.com/leapmotion/LeapUnreal
 
 ## Setup
 
