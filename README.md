@@ -1,5 +1,5 @@
-# leap-ue4-modules
-Leap UE4 modules and examples. Drag and drop content for your leap needs.
+# LeapUnrealModules
+Leap UE4 modules and examples. Drag and drop content for your leap needs. Depends on the plugin found under https://github.com/leapmotion/LeapUnreal
 
 ## Setup
 
@@ -7,7 +7,7 @@ This repository uses [git-lfs](https://git-lfs.github.com/). If you do not have 
 
 ## Modules
 
-So how do I.... you know... interact with stuff with the Leap Motion? Easy, find your use case below and tinker away!
+So how do interact with the Leap Motion? Easy, find your use case below and tinker away!
 
 ### Hello World
 
@@ -29,7 +29,7 @@ So how do I.... you know... interact with stuff with the Leap Motion? Easy, find
 
 ### Rigging
 
-[CustomRigHello.umap](https://github.com/leapmotion/LeapUnrealModules/blob/master/Content/Modules/Rigging/CustomRigHello.umap). A map with various skeletal meshes auto-mapped. Investigate various anim blueprint to see how each rig was done. See https://github.com/getnamo/leap-ue4-preview#custom-rigging for rigging api documentation.
+[CustomRigHello.umap](https://github.com/leapmotion/LeapUnrealModules/blob/master/Content/Modules/Rigging/CustomRigHello.umap). A map with various skeletal meshes auto-mapped. Investigate various anim blueprint to see how each rig was done. See https://github.com/leapmotion/LeapUnreal#custom-rigging for rigging api documentation.
 
 
 ### (future examples...)
