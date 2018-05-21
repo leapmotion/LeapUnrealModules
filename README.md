@@ -1,4 +1,4 @@
-# leap-ue4-modules
+# LeapUnrealModules
 Leap UE4 modules and examples. Drag and drop content for your leap needs.
 
 ## Setup
@@ -7,7 +7,7 @@ This repository uses [git-lfs](https://git-lfs.github.com/). If you do not have 
 
 ## Modules
 
-So how do I.... you know... interact with stuff with the Leap Motion? Easy, find your use case below and tinker away!
+So how do interact with the Leap Motion? Easy, find your use case below and tinker away!
 
 ### Hello World
 
