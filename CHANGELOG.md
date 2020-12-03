@@ -6,6 +6,8 @@ Versions
 ### Version 0.3.9
 * Updated to work with Unreal Engine V4.25 and latest release of the LeapUnreal plugin (V3.6.0)
 * UNREAL-56 Fixed LiveLink compilation issue related to AnimGraphNode_LiveLinkPose_043E904945C258D1A611D5968D234F1A'. Unknown structure
+* UNREAL-73 Updated copyright notices
+* Added an empty class to force plugin recompilation
 
 ### Known Issues and Workarounds
 
