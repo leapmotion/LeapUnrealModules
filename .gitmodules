@@ -1,3 +1,4 @@
 [submodule "Plugins/LeapUnreal"]
 	path = Plugins/LeapUnreal
-	url = https://github.com/leapmotion/LeapUnreal
+	url = https://github.com/JimSimons-UH/LeapUnreal.git
+	branch = ScreenTop
