@@ -1,6 +1,8 @@
 # LeapUnrealModules
+_NOTE: LeapUnrealModules is no longer being updated. Our new Hand Tracking Plugin for Unreal can now be found [here](https://github.com/ultraleap/UnrealPlugin) and contains Interaction Engine, Unreal Hands, UI Input, and all examples._
+
 Leap UE4 modules and examples. Drag and drop content for your Leap needs.  
-_NOTE: Depends on the LeapUnreal plugin found under https://github.com/leapmotion/LeapUnreal_
+
 
 ## Setup
 
